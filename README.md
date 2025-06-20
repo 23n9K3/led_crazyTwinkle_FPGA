@@ -1,0 +1,2 @@
+# led_crazyTwinkle_FPGA
+四个led灯按不同频率闪烁，verilog和仿真
